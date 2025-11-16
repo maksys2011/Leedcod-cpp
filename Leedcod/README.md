@@ -4,7 +4,7 @@
 Структура по категориям (array, string, hash_table, linked_list и др)
 
 Итого решено:
-easy - 8;
+easy - 9;
 medium - 1;
 hard - 0;
 
@@ -20,8 +20,7 @@ string:
     1. 13. Roman to Integer
     20. Valid Parentheses (+stack)
     28. Find the Index of the First Occurrence in a String
-
-
+    58. Length of Last Word
 
 
 
