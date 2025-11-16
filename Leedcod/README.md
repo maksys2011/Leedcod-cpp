@@ -4,7 +4,7 @@
 Структура по категориям (array, string, hash_table, linked_list и др)
 
 Итого решено:
-easy - 7;
+easy - 8;
 medium - 1;
 hard - 0;
 
@@ -19,6 +19,8 @@ array:
 string:
     1. 13. Roman to Integer
     20. Valid Parentheses (+stack)
+    28. Find the Index of the First Occurrence in a String
+
 
 
 
