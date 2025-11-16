@@ -4,7 +4,7 @@
 Структура по категориям (array, string, hash_table, linked_list и др)
 
 Итого решено:
-easy - 9;
+easy - 10;
 medium - 1;
 hard - 0;
 
@@ -18,9 +18,11 @@ array:
     6. 566. Reshape the Matrix
 string:
     1. 13. Roman to Integer
-    20. Valid Parentheses (+stack)
-    28. Find the Index of the First Occurrence in a String
-    58. Length of Last Word
+    2. 20. Valid Parentheses (+stack)
+    3. 28. Find the Index of the First Occurrence in a String
+    4. 58. Length of Last Word
+    5. 125. Valid Palindrome
+
 
 
 
