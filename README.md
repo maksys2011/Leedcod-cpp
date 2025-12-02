@@ -21,7 +21,7 @@
 
 # 🔷 Arrays
 
-- 1. Two Sum  
+1. Two Sum  
 - 14. Longest Common Prefix  
 - 26. Remove Duplicates from Sorted Array  
 - 27. Remove Element  
