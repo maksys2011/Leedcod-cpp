@@ -112,6 +112,7 @@
 - 929 — Unique Email Addresses
 - 953 — Verifying an Alien Dictionary
 - 17  — Letter Combinations of a Phone Number
+- 36  — Valid Sudoku
 
 ---
 
