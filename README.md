@@ -130,6 +130,7 @@
 - 206 — Reverse Linked List  
 - 234 — Palindrome Linked List  
 - 876 — Middle of the Linked List  
+- 61  — Rotate List
 
 ---
 
